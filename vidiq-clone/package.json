@@ -1,0 +1,27 @@
+{
+  "name": "vidiq-clone",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "autoprefixer": "^10.4.27",
+    "chart.js": "^4.5.1",
+    "postcss": "^8.5.9",
+    "react": "^19.2.5",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^7.14.0",
+    "tailwindcss": "^4.2.2",
+    "vite": "^8.0.7"
+  }
+}
