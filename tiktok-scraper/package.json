@@ -1,0 +1,16 @@
+{
+  "name": "tiktok-scraper",
+  "version": "1.0.0",
+  "main": "tiktok-scraper.js",
+  "scripts": {
+    "scrape": "node tiktok-scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tiktok", "scraper", "playwright"],
+  "author": "",
+  "license": "ISC",
+  "description": "TikTok scraper using Playwright",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
